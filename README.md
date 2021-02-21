@@ -12,6 +12,6 @@
 - [Website](https://github.com/Allencs16) 💻 - Working on it.
 
 ### Skills
-- [![Angularjs Badge](https://angular.io/)
+- [![Angularjs Badge](https://www.flaticon.com/free-icon/structure_3334886?term=react&page=1&position=4&page=1&position=4&related_id=3334886&origin=search)
 - [![React Badge](https://reactjs.org/)
 - [![ReactNative Badge](https://reactnative.dev/)
