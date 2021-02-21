@@ -13,5 +13,5 @@
 
 ### Skills
 - [![Angularjs Badge](https://www.flaticon.com/free-icon/structure_3334886?term=react&page=1&position=4&page=1&position=4&related_id=3334886&origin=search)]
-- [![React Badge](https://www.flaticon.com/free-icon/structure_3334886?term=react&page=1&position=4&page=1&position=4&related_id=3334886&origin=search)]
+- [![React Badge](https://www.flaticon.com/authors/pixel-perfect)]
 - [![ReactNative Badge](https://reactnative.dev/)]
