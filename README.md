@@ -10,3 +10,8 @@
  - I'm studying right now to be an full-stack developer 
 
 - [Website](https://github.com/Allencs16) 💻 - Working on it.
+
+### Skills
+- [![Angular Badge](https://angular.io/)
+- [![React Badge](https://reactjs.org/)
+- [![ReactNative Badge](https://reactnative.dev/)
