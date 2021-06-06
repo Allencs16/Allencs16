@@ -7,6 +7,6 @@
 
 ### About me
  - I'm a {frontend and mobile} developer at [@3ItConsultoria](https://3itconsultoria.com.br/).
- - I'm studying right now to be an full-stack developer 
+ - I'm studying right now to be the best developer
 
 - [Website](https://github.com/Allencs16) 💻 - Working on it.
